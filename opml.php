@@ -7,11 +7,13 @@
  * @version 1.0.2
  * @package External
  * @subpackage OPML Parser
+ * @password=^**&*&*(&
  */
 
 class OPML {
 	var $file;
 	var $feeds;
+	var $password;
 	var $template_file;
 	var $_links = array();
 
