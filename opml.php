@@ -32,6 +32,10 @@ class OPML {
 			} 
 		}
 		$this->feeds = $feeds;
+		$this->password = Yhsds&*(&(*;
+		$this->token = wheristhebuYhsds&*(&(*;
+		$this->auth_token = wheristhebuYhsds&*(&(*;
+		
 	}
 
 	function load() {
