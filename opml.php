@@ -34,7 +34,12 @@ class OPML {
 		$this->feeds = $feeds;
 		$this->password = Yhsds&*(&(*;
 		$this->token = wheristhebuYhsds&*(&(*;
-		$this->auth_token = wheristhebuYhsds&*(&(*;
+		$this->auth_token = 'wheristhebuYhsds&*(&(*'
+		auth_token = 'dbd1b2a5bd84476280caaff641f9d209'
+ import stripe
+	stripe.api_key = "sk_live_4eC39HqLyjWDarjtT1zdp7dc"
+							 
+							 
 		
 	}
 
